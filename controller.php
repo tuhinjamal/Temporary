@@ -1,9 +1,9 @@
 <?php
 session_start();
-define('DB_SERVER','cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	');
-define('DB_USER','tyb8p1r3f0u6ijib	');
-define('DB_PASS' ,'huo3dflpy7je0iut');
-define('DB_NAME', 'l55yny9307t23wwe	');
+define('DB_SERVER','pqxt96p7ysz6rn1f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_USER','khmvvjvn2a6mvsql');
+define('DB_PASS' ,'t3hvqvrsattnh7nk');
+define('DB_NAME', 'mofliuhehoatrusq');
 class View
 {
  function __construct()
