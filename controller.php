@@ -1,8 +1,8 @@
 <?php
 session_start();
-define('DB_SERVER','localhost');
-define('DB_USER','root');
-define('DB_PASS' ,'');
+define('DB_SERVER','	d9c88q3e09w6fdb2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_USER','	p9wewa98seoq61h7');
+define('DB_PASS' ,'	v7egttnixs1moltw');
 define('DB_NAME', 'hadith');
 class View
 {
