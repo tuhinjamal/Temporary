@@ -25,4 +25,4 @@ $fetchdata=new View();
   </tr>
   <?php $count=$count+1;} ?>
 </table>
-<a href="hadith_1.php" class="attribute1"> Hadith:1</a>
+<a href="manager.php"> insert</a>
