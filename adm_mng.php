@@ -1,7 +1,7 @@
 <?php
 /* Attempt MySQL server connection. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-$link = mysqli_connect("cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	", "	tyb8p1r3f0u6ijib", "	huo3dflpy7je0iut", "hadith");
+$link = mysqli_connect("cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	", "tyb8p1r3f0u6ijib", "huo3dflpy7je0iut", "l55yny9307t23wwe");
  
 // Check connection
 if($link === false){
