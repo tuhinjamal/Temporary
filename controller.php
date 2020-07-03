@@ -1,9 +1,9 @@
 <?php
 session_start();
-define('DB_SERVER','	d9c88q3e09w6fdb2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
-define('DB_USER','	p9wewa98seoq61h7');
-define('DB_PASS' ,'	v7egttnixs1moltw');
-define('DB_NAME', 'hadith');
+define('DB_SERVER','cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	');
+define('DB_USER','tyb8p1r3f0u6ijib	');
+define('DB_PASS' ,'huo3dflpy7je0iut');
+define('DB_NAME', 'l55yny9307t23wwe	');
 class View
 {
  function __construct()
