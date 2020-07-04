@@ -18,7 +18,7 @@ echo "Failed to connect to MySQL: " . mysqli_connect_error();
  }
  public function fetchdata()
  {
- $result=mysqli_query($this->dbh,"SELECT * FROM tbl_hadith WHERE id = 7");
+ $result=mysqli_query($this->dbh,"SELECT * FROM tbl_hadith");
  return $result;
  }
 }
